@@ -1,0 +1,68 @@
+body{
+    background-color: darkgray;
+    padding: 25px;
+    margin: auto;
+    border: 2px red;
+}
+head{
+    background-color: darkgray;
+    padding: 025px;
+    margin: auto;
+    border: red 2px auto;
+
+}
+h1{
+    background-color:darkgray;
+    padding: 25px;
+    margin: 2px auto;
+}
+
+img{
+    display: block;
+    margin: 30px auto;
+    width: 060px auto;
+    align-content: center;
+
+}
+#container{
+    width: auto;
+    margin: 40px auto;
+    padding: 25px;
+    border: 2px red;
+}
+header{
+    font-size: 35px;
+    color: crimson;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    font-size: 20px;
+    color: crimson;
+    text-align: center;
+    font-family: fantasy;
+}
+nav{
+    text-align: center;
+
+}
+nav a{
+    color: crimson;
+    font-size: 23px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+link{
+    color: crimson;
+}
+title{
+    text-align: center;
+    color: crimson;
+    font-size: 40px;
+}
+h1{
+    font-size: 40px;
+    color: crimson;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
